@@ -34,7 +34,7 @@ In this problem we are predicting salary based on given features like role,work 
 
 Below table is showing accuracy score of various models used in this task:
 
-| Model            | R²   |
+| Model            | R² Score   |
 |------------------|------|
 | Voting           | 0.59 |
 | ElasticNet       | 0.58 |
